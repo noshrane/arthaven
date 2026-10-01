@@ -1,0 +1,5 @@
+package com.rain.arthaven
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
